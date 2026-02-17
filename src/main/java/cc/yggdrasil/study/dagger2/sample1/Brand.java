@@ -1,4 +1,4 @@
-package cc.yggdrasil.study.dagger2;
+package cc.yggdrasil.study.dagger2.sample1;
 
 public class Brand
 {

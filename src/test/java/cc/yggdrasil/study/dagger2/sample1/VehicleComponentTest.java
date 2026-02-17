@@ -1,12 +1,12 @@
-package cc.yggdrasil.study.dagger2;
+package cc.yggdrasil.study.dagger2.sample1;
 
-import org.junit.jupiter.api.Test;
+import cc.yggdrasil.study.dagger2.sample2.VehicleServiceBuilder;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 
 class VehicleComponentTest
 {
-
     @Test
     void buildCar()
     {
